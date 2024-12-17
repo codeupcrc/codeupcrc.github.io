@@ -2,6 +2,19 @@
 
 This repository contains the CODE-UP (Code Understandability Improvement Dataset) and the artifacts of the findings by evaluate this dataset.
 
+See [Understanding Code Understandability Improvements in Code Reviews](http://arxiv.org/pdf/2410.21990) (Delano Oliveira, Reydne Santos, Benedito de Oliveira, Martin Monperrus, Fernando Castor and Fernanda Madeiral), In IEEE Transactions on Software Engineering, 2024.
+
+```bibtex
+@article{2410.21990,
+ title = {Understanding Code Understandability Improvements in Code Reviews},
+ journal = {IEEE Transactions on Software Engineering},
+ year = {2024},
+ doi = {10.1109/tse.2024.3453783},
+ author = {Delano Oliveira and Reydne Santos and Benedito de Oliveira and Martin Monperrus and Fernando Castor and Fernanda Madeiral},
+ url = {http://arxiv.org/pdf/2410.21990},
+}
+```
+
 List of selected projects: [projects.md](projects.md)
 
 The full data is available here: [dataset.tsv](csv/dataset.tsv)
